@@ -1,0 +1,32 @@
+[
+    {
+        "temperature": "32",
+        "cooling": false,
+        "Heating": true
+    },
+    {
+        "temperature": "42",
+        "cooling": true,
+        "Heating": false
+    },
+    {
+        "temperature": "12",
+        "cooling": true,
+        "Heating": false
+    },
+    {
+        "temperature": "78",
+        "cooling": false,
+        "Heating": true
+    },
+    {
+        "temperature": "31",
+        "cooling": true,
+        "Heating": false
+    },
+    {
+        "temperature": "89",
+        "cooling": false,
+        "Heating": true
+    }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "room-backend",
+  "version": "1.0.0",
+  "description": "- This directory is fall all backend code. The backend shall consist of an API to expose the required functionality to the frontend services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
